@@ -17,7 +17,7 @@ public class IntergrationTest
     string[] allowedInterestYears = ["1", "5", "10", "20", "30"];
 
     [Fact]
-    public void InputTests()
+    public void IntergrationTest1()
     {
         string postalCode = null;
         int? amountOfYears = null;
